@@ -1,2 +1,13 @@
 # Lenovo P780 Lollipop Kernel
-# lp_kernel_p780
+# Working:
+*GPU(hwcomposer)
+*Lcm and touchpanel
+*Accelerometer and magnetometer, giroscope
+*Wifi and BT
+*Fm Radio
+*RIL
+*Led
+*Speaker
+# Not working:
+*Camera
+*leds
