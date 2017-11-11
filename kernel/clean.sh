@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export CROSS_COMPILE="ccache /home/xzxxxiphonexxxzx/lp/toolchain/arm-linux-androideabi-4.7/bin/arm-linux-androideabi-"
+export CROSS_COMPILE="ccache /home/johndow171/android/kernel/toolchain/arm-linux-androideabi-4.7/bin/arm-linux-androideabi-"
 export TARGET_PRODUCT=prada
 export MTK_ROOT_CUSTOM=../mediatek
 
