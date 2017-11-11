@@ -14,7 +14,7 @@ export ARCH=arm
 echo "We are actually building for $TARGET_PRODUCT with $CROSS_COMPILE"
 
 #Workaround for + appended on kernelrelease
-export LOCALVERSION=Proton-Kernel-1.0
+export LOCALVERSION=cm12.1+
 
 #Create vars for OUT, SCRIPTS and RAMDISK directories
 OUT_DIRECTORY=../out/$TARGET_PRODUCT
